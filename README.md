@@ -1,2 +1,3 @@
 # gitlab-notify-slack
-Go script to notify slack channel from a gitlab build
+
+Notify slack channel from a gitlab build
